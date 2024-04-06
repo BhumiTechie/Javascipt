@@ -19,7 +19,7 @@ JavaScript is a programming language that is:
 
 * Multi-paradigm: JavaScript supports multiple programming paradigms, including object-oriented (via prototypes), imperative (using statements that change a program's state), and declarative.
 * Single-threaded: JavaScript executes code in a single thread, meaning it processes one task at a time. This can sometimes lead to performance bottlenecks, but it simplifies programming in many cases and is well-suited for event-driven applications.
-* 
+
 * Dynamic: JavaScript is dynamically typed, meaning that variables can hold values of any data type and data types are determined at runtime rather than compile time.
 
 * Supports object-oriented, imperative, and declarative programming: JavaScript allows you to write code in an object-oriented manner using prototypes, imperatively by executing statements that change program state, and declaratively by specifying what should be done without specifying how it should be done (e.g., using functional programming constructs like map, filter, and reduce)!
