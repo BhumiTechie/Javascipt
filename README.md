@@ -13,6 +13,7 @@ Asynchronous JavaScript (Promises, Async/Await  Callback)
 DOM Manipulation
 Error Handling.
 ====================================================================>>>>>>>>
+
 JavaScript is a programming language that is:
 
 * Prototype-based: This means that objects can inherit properties and methods directly from other objects, rather than through classes.
