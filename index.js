@@ -26,3 +26,14 @@ function second(){
 console.log("this is second function");
  }
 }
+
+// Third - Passing a Function as an argument
+function sayYes() {
+    return "Hello , ";
+  }
+  function greeting(helloMessage, name) {
+    console.log(helloMessage() + name);
+  }
+  // Pass `sayYes` as an argument to `greeting` function
+  greeting(sayYes, "JavaScript!");
+// In this that the function we are passing as an argument to another function will be called Callback Function
