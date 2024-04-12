@@ -37,3 +37,8 @@ function sayYes() {
   // Pass `sayYes` as an argument to `greeting` function
   greeting(sayYes, "JavaScript!");
 // In this that the function we are passing as an argument to another function will be called Callback Function
+
+
+ // Array In JS
+ // JavaScript arrays are resizable and can hold a variety of data types.
+ // An array is an ordered list of values that you refer to with a name and an index
