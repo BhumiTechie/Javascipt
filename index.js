@@ -42,3 +42,16 @@ function sayYes() {
  // Array In JS
  // JavaScript arrays are resizable and can hold a variety of data types.
  // An array is an ordered list of values that you refer to with a name and an index
+
+ // # CREATING AN ARRAY
+ // A pair of square brackets [] represents an array in JavaScript. All the elements in the array are comma(,) separated!
+ // you can create an array with elements of type String, Boolean, Number, Objects, and even other Arrays.
+ // For Example 
+ const mixedTypeArray = [400, true, 'HEllOJS', {}];
+// OUTPUT - mixedTypeArray
+// (4) [400, true, 'HEllOJS', {…}]
+// mixedTypeArray[2]
+// 'HEllOJS'
+// mixedTypeArray.length
+// 4
+
