@@ -55,3 +55,9 @@ function sayYes() {
 // mixedTypeArray.length
 // 4
 
+// Creating a "new" Araay
+
+const fruits = ['Apple', 'Orange', 'Mango', 'Banana', 'Grapes']
+const newFruits = new Array('Apple', 'Orange', 'Mango', 'Banana', 'Grapes');
+
+
