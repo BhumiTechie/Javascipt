@@ -56,7 +56,7 @@ function sayYes() {
 // 4
 
 // Creating a "new" Araay
-
+// In JavaScript, the "new" keyword is used to create new objects from constructor functions or classes
 const fruits = ['Apple', 'Orange', 'Mango', 'Banana', 'Grapes']
 const newFruits = new Array('Apple', 'Orange', 'Mango', 'Banana', 'Grapes');
 
