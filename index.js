@@ -57,7 +57,11 @@ function sayYes() {
 
 // Creating a "new" Araay
 // In JavaScript, the "new" keyword is used to create new objects from constructor functions or classes
-const fruits = ['Apple', 'Orange', 'Mango', 'Banana', 'Grapes']
-const newFruits = new Array('Apple', 'Orange', 'Mango', 'Banana', 'Grapes');
+// const fruits = ['Apple', 'Orange', 'Mango', 'Banana', 'Grapes']
+// const newFruits = new Array('Apple', 'Orange', 'Mango', 'Banana', 'Grapes');
 
 
+// Functions in javascript ===========( call(), apply() , bind () method )
+ 
+// # CALL METHOD
+call is a function that you use to change the value of this inside a function and execute it with the arguments provided.
