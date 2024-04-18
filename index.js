@@ -65,3 +65,4 @@ function sayYes() {
  
 // # CALL METHOD
 call is a function that you use to change the value of this inside a function and execute it with the arguments provided.
+example
