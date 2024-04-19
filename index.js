@@ -64,5 +64,14 @@ function sayYes() {
 // Functions in javascript ===========( call(), apply() , bind () method )
  
 // # CALL METHOD
-call is a function that you use to change the value of this inside a function and execute it with the arguments provided.
-example
+// call is a function that you use to change the value of this inside a function and execute it with the arguments provided.
+
+// Promises & async/await 
+
+// Promises mean Object That are a way to handle asynchronous operations more easily, especially when dealing with multiple asynchronous tasks.
+// * A promise is created by using the Promise constructor  which takes a callback function with resolve and reject parameters! Within the callback, you handle the async operation and call resolve if it succeeded or reject if it failed.
+//  Promise object can be:
+    //  1) Pending : initial state, neither fulfilled nor rejected.
+    //  2) Fulfilled :that the operation was completed successfully.
+    //  3)Rejected : hat the operation failed.
+
