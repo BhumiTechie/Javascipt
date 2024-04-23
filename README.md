@@ -24,3 +24,5 @@ JavaScript is a programming language that is:
 * Dynamic: JavaScript is dynamically typed, meaning that variables can hold values of any data type and data types are determined at runtime rather than compile time.
 
 * Supports object-oriented, imperative, and declarative programming: JavaScript allows you to write code in an object-oriented manner using prototypes, imperatively by executing statements that change program state, and declaratively by specifying what should be done without specifying how it should be done (e.g., using functional programming constructs like map, filter, and reduce)!
+
+

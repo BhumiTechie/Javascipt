@@ -1,0 +1,14 @@
+# OVERVIEW OF DOM
+DOM mean Document Object Model. 
+1. The Document Object Model is the data representation of the objects that comprise the structure and content of a document on the web.
+2. The DOM is a Web API that allows developers to use programming logic to make changes to their HTML code. It's a reliable way to make changes that turn static websites into dynamic ones.
+
+## EVENTS 
+DOM events are actions that occur on a web page, like a mouse click, keypress, or page load. JavaScript can listen for these events and respond accordingly, enabling interactive web applications.
+The DOM allows JavaScript to dynamically modify the content, structure, and style of web pages. This enables developers to create interactive and engaging user experiences by updating page content in response to user actions
+
+## EXAMPLE
+ clicking a button changes the text of a paragraph
+
+
+ you can check in my link 
