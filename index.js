@@ -81,9 +81,18 @@ function sayYes() {
 // A “consuming code” that wants the result of the “producing code” once it’s ready. Many functions may need that result.
 // A promise is a special JavaScript object that links the “producing code” and the “consuming code” together.
 
-let promise = new Promise(function(req, res) {
-  setTimeout(function(){
-    console.log('hello');
-  }, 5000)
-});
+// let promise = new Promise(function(req, res) {
+//   setTimeout(function(){
+//     console.log('hello');
+//   }, 5000)
+// });
 
+
+
+// #using toFixed 
+
+let nums = 12.45451;
+
+document.innerHTML = nums.toFixed(2);
+
+// console.log(nums);
