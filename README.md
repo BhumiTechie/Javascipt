@@ -26,3 +26,32 @@ JavaScript is a programming language that is:
 * Supports object-oriented, imperative, and declarative programming: JavaScript allows you to write code in an object-oriented manner using prototypes, imperatively by executing statements that change program state, and declaratively by specifying what should be done without specifying how it should be done (e.g., using functional programming constructs like map, filter, and reduce)!
 
 
+# OVERVIEW OF NODEJS
+Node.js is a runtime environment for JavaScript that runs on the server and is open source, cross-platform, and popular in web development!
+Node.js runs on the V8 JavaScript engine, allowing it to benefit from the Chrome JavaScript runtime's performance improvements like Just-In-Time compilation
+This allows Node.js to handle thousands of concurrent connections with a single server without introducing the burden of managing threads concurrency, which would be a major source of bugs.
+
+
+****npm is the standard package manager for Node.js.
+ npm(NODE PACKAGE MANAGER) the powerful package manager key to the success of Node.js.
+ npm is installed when you install Node.js. That website https://nodejs.org and install Node, if you haven’t installed it already on your system.
+
+ How to use npm
+npm manages downloads of dependencies of your project.
+
+# CHARACTERSTICS OF NODEJS
+Asynchronous and non-blocking I/O model.
+JavaScript runtime for server-side applications.
+High performance and scalability.
+Vast ecosystem of modules and libraries via NPM.
+Cross-platform compatibility.
+Single-threaded event-driven architecture.
+
+# USES OF NODEJS
+Web development (server-side applications and APIs)
+Real-time applications (chat, gaming, live streaming)
+Microservices architecture
+Backend services (data processing, authentication)
+API development (RESTful APIs)
+Single page applications (SPAs)
+IoT applications
